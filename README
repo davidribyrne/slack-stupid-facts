@@ -1,0 +1,11 @@
+Installation is simple (5 & 6 are optional):
+1. Install npm 
+2. git clone https://github.com/davidribyrne/slack-stupid-facts.git
+3. cd slack-stupid-facts
+4. npm install
+5. cp example-local-facts.yml local-facts.yml
+6. Edit local-facts.yml to supplement facts (main file in ./node_modules/stupid-facts/facts.yml)
+7. npm start
+8. To setup Slack, visit http://slack.com/apps/A0F82E8CA-slash-commands
+9. The service will be running on http://IP:3000/fact and accepts GET or POST
+
