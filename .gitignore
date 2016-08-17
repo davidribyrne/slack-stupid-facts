@@ -1,2 +1,2 @@
-local-facts.yml
-node_modules
+src/local-facts.yml
+src/node_modules
