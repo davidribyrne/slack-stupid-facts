@@ -1,0 +1,2 @@
+C:\dev\code\jonathanbyrne\slack-stupid-facts\Visual Studio 2015 Project\slack-stupid-facts\obj\Debug\slack-stupid-facts.njsprojResolveAssemblyReference.cache
+C:\dev\code\jonathanbyrne\slack-stupid-facts\Visual Studio 2015 Project\slack-stupid-facts\bin\Microsoft.NodejsTools.WebRole.dll
